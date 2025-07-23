@@ -1,0 +1,10 @@
+Please download and then run all of these required Bunni dependencies one by one EVEN IF YOU ALREADY HAVE THEM. and restart your pc
+
+[.NET Runtime 8.0](<https://builds.dotnet.microsoft.com/dotnet/WindowsDesktop/8.0.18/windowsdesktop-runtime-8.0.18-win-x64.exe>)  
+[VC Redist x64](<https://aka.ms/vs/17/release/vc_redist.x64.exe>)  
+[VC Redist x86](<https://aka.ms/vs/17/release/vc_redist.x86.exe>)  
+[Microsoft Edge WebView2 Runtime](<https://go.microsoft.com/fwlink/p/?LinkId=2124703>)
+[directX](<https://www.microsoft.com/en-us/download/details.aspx?id=35>)
+[.net framework](https://dotnet.microsoft.com/en-us/download/dotnet-framework)
+
+After downloading and installing each of these one by one, please restart your PC and try to use bunni again.
