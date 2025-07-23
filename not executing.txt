@@ -1,0 +1,3 @@
+- fix 1:Try reinstalling bunni (also make sure antivirus is off)
+- fix 2: restart your pc
+- Fix 3: Reinstall roblox
