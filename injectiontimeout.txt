@@ -1,0 +1,8 @@
+ fix 1: inject when roblox is open
+ fix 2: turn off anti-tamper and real time protection and reinstall bunni (clear your browser cache before reinstalling)
+ fix 3: inject inside of a roblox game not in homepage
+ fix 4: try ignoring it and executing
+ fix 5: try injecting once, waiting for timeout, then injecting again
+ fix 6: try deleting roblox from %localappdata% and re-installing roblox from https://roblox.com/download
+ fix 7: use bloxstrap https://bloxstraplabs.com
+ fix 8: use fishstrap https://fishstrap.app
