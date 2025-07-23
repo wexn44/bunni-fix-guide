@@ -1,0 +1,4 @@
+- fix 1: delete bunni and freshly reinstall from https://realbunni.com and re-enter ur key
+- fix 2: MAKE SURE YOU EXTRACT THE .ZIP BEFORE RUNNING BUNNI.EXE
+- fix 3: use warp https://one.one.one.one
+- fix 4: make sure you are copying your key correctly
